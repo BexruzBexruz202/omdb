@@ -181,3 +181,15 @@ footer {
     margin: auto;
     margin-right: 200px;
 }
+
+.home_Btn{
+    background-color: rgb(152, 53, 53);
+    border: none;
+    color: white;
+    width: 90px;
+    height: 20px;
+}
+
+a{
+    text-decoration: none;
+}

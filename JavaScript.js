@@ -48,6 +48,7 @@ function showOneMovie(id) {
     console.log(res.data);
 
     elResults.innerHTML = `
+
         <div class="movie-detail">
         <div class="movie-detail-left">
             <h1 class='movie-detail__title'>${movie.Title}</h1>
